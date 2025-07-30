@@ -23,6 +23,13 @@
           "type": "title",
           "settings": {}
         },
+        "sizechart_pro_sizechart_block_b3yGkC": {
+          "type": "shopify://apps/sizechart-pro/blocks/sizechart-block/20f2f56d-9b9b-4a65-b814-16722417f65a",
+          "settings": {
+            "display_type": "popup",
+            "sizechart_open_btn_text": "Size Chart"
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -102,6 +109,7 @@
       "block_order": [
         "vendor",
         "title",
+        "sizechart_pro_sizechart_block_b3yGkC",
         "caption",
         "price",
         "variant_picker",
